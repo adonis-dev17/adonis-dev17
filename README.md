@@ -1,4 +1,5 @@
 # Hi there! 👋 I'm Adonis
+<a href="https://app.daily.dev/adonis_dev17"><img src="https://api.daily.dev/devcards/v2/5AwgkbJ457b6HUpTl9Z1y.png?type=default&r=ro3" width="356" alt="Adonis Medrocillo's Dev Card"/></a>
 <a href="https://app.daily.dev/adonis_dev17"><img src="./devcard.png" width="356" alt="Adonis Medrocillo's Dev Card"/></a>
 
 I'm a passionate software enthusiast and aspiring web developer. My journey in the world of programming has been exciting, and I'm always eager to learn and explore new technologies. Here's a bit about me:
